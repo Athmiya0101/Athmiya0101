@@ -10,4 +10,4 @@
 
 [Connect on LinkedIn](https://www.linkedin.com/in/athmiyav/) | [Email Me](mailto:athmiyav@gmail.com)
 
--->
+[![Athmiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athmiya)](https://github.com/Athmiya/github-readme-stats)
